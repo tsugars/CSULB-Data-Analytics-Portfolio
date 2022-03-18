@@ -4,3 +4,4 @@ Science & Analytics program with Cal State University Long Beach
 ## SQL
 ## Statistics
 ## Visual Communications
+## Smaller Projects with Personal Enhancements
